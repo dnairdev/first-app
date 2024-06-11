@@ -1,0 +1,24 @@
+
+.green-component {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f8f3ef; /* Light gray background */
+    color: #A3C5A3; /* Green text color */
+  }
+  
+  .green-component button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #A3C5A3; /* Black button background */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ffffff; /* White text color */
+  }
+  
+  .green-component button:hover {
+    background-color: #bbed94; /* Darker gray background on hover */
+  }
